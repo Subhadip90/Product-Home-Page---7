@@ -1,124 +1,124 @@
 * {
- margin: 0;
- padding: 0;
- box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 nav {
- display: flex;
- flex-direction: row;
- justify-content: space-between;
- align-items: center;
- justify-items: center;
- margin: 50px 80px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  justify-items: center;
+  margin: 50px 80px;
 }
 
 .nav-items {
- display: flex;
+  display: flex;
 }
 
 nav img {
- height: 60px;
+  height: 60px;
 }
 
 .nav-item {
- margin: 0 40px;
- font-size: 30px;
+  margin: 0 40px;
+  font-size: 30px;
 }
 
 .intro-section {
- display: flex;
+  display: flex;
 }
 
 .left-section {
- display: flex;
- flex-direction: column;
- flex-basis: 70%;
- justify-content: space-evenly;
- margin: 0 80px;
+  display: flex;
+  flex-direction: column;
+  flex-basis: 70%;
+  justify-content: space-evenly;
+  margin: 0 80px;
 }
 
 .right-section {
- display: flex;
- flex-direction: column;
- position: relative;
- bottom: 100px;
- right: 60px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  bottom: 100px;
+  right: 60px;
 }
 
 .headphone-div {
- position: relative;
- left: -50px;
+  position: relative;
+  left: -50px;
 }
 
 .discount {
- position: absolute;
- top: 400px;
- left: -60px;
+  position: absolute;
+  top: 400px;
+  left: -60px;
 }
 
 .discount-content > h4 {
- position: relative;
- top: 470px;
- color: #ffffff;
+  position: relative;
+  top: 470px;
+  color: #ffffff;
 }
 
-.discount-content>h1 {
- position: relative;
- top: 470px;
- color: #ffffff;
-}
-
-.dots {
- display: flex;
- justify-content: space-evenly;
- position: relative;
- right: 50px;
+.discount-content > h1 {
+  position: relative;
+  top: 470px;
+  color: #ffffff;
 }
 
 .dots {
- display: flex;
- justify-content: center;
- align-items: center;
- margin: 0 20px;
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+  right: 50px;
+}
+
+.dots {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 20px;
 }
 
 .yellow-dot {
- height: 40px;
- width: 40px;
- background-color: rgb(243, 243, 8);
- border-radius: 20px;
+  height: 40px;
+  width: 40px;
+  background-color: rgb(243, 243, 8);
+  border-radius: 20px;
 }
 
 .tomato-dot {
- height: 40px;
+  height: 40px;
   width: 40px;
   background-color: #fe5e35;
   border-radius: 20px;
 }
 
 .black-dot {
- height: 40px;
+  height: 40px;
   width: 40px;
   background-color: #000000;
   border-radius: 20px;
 }
 
 .left-section h3 {
- font-size: 50px;
- font-weight: 400;
+  font-size: 50px;
+  font-weight: 400;
 }
 
 .left-section h1 {
- font-size: 120px;
- font-weight: bolder;
+  font-size: 120px;
+  font-weight: bolder;
 }
 
 .sub-headlines img {
- height: 25px;
- width: 25px;
- border-radius: 30px;
- background-color: #fe5e35;
+  height: 25px;
+  width: 25px;
+  border-radius: 30px;
+  background-color: #fe5e35;
 }
 
 .sub-headline {
@@ -128,31 +128,31 @@ nav img {
 }
 
 .text {
- font-size: 20px;
- font-weight: 400;
+  font-size: 20px;
+  font-weight: 400;
 }
 
 .action-btn {
- background-color: #fe5e35;
- border: 0;
- color: #ffffff;
- padding: 20px 30px;
- font-size: 20px;
- border-radius: 30px;
+  background-color: #fe5e35;
+  border: 0;
+  color: #ffffff;
+  padding: 20px 30px;
+  font-size: 20px;
+  border-radius: 30px;
 }
 
 .action-btn1 {
   background-color: #fe5e35;
-   border: 0;
-   color: #ffffff;
-   padding: 20px 60px;
-   font-size: 20px;
-   border-radius: 20px;
-   position: absolute;
-   left: 200px;
-   margin-top: 30px;
+  border: 0;
+  color: #ffffff;
+  padding: 20px 60px;
+  font-size: 20px;
+  border-radius: 20px;
+  position: absolute;
+  left: 200px;
+  margin-top: 30px;
 }
 
 .btn {
- position: relative;
+  position: relative;
 }
