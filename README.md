@@ -20,7 +20,7 @@
 
 ## Time taken to Finish this project
 
-> I have taken 1 full day to understand and complete this project, this was my first project on Tailwind.
+> I have taken 8 hours to complete this project.
 
 ## Feedback
 
